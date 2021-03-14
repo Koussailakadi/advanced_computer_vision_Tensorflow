@@ -12,6 +12,8 @@ Advanced learning specialization
 
 ## tensorflow for advancer computer vision 
 
+First week modules: 
+
 * RasNet50
 * transfer learning
 * object localization and detection 

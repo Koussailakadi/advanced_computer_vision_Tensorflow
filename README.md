@@ -8,7 +8,7 @@ by:
 * Eddy Shyu
 * Andrew Ng
 
-Advanced learning specialization
+Advanced computer vision and deep learning specialization
 
 ## tensorflow for advancer computer vision 
 
